@@ -1,0 +1,8 @@
+.select_compras{
+    display: none;
+}
+
+.select_ventas, .producto_estrella, .utilidad_actual, .ingresos_actuales, .costos_actuales{
+    display: none;
+}
+
